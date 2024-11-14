@@ -108,10 +108,9 @@
 	ags
 	cava
 	dunst
-	gtk3
-	pkg-config
 	fastfetch
 	git
+	gtk3
 	home-manager
 	imagemagick
 	jq
@@ -121,26 +120,34 @@
 	kdePackages.qtwayland
 	kitty
 	libnotify
+	linux-manual
+	man
+	man-pages
+	man-pages-posix
+	mesa   
 	nerdfonts
 	networkmanager
 	pamixer
 	pavucontrol
 	pipewire
+	pkg-config
 	playerctl
 	rofi
 	swaylock
 	swaylock-fancy
 	swww
-	linux-manual
-	man
-	man-pages-posix
-	man-pages
 	unzip
 	waybar
 	wireplumber
 	wl-clipboard
 	wlogout
 	wofi
+	xorg.libX11
+	xorg.libXcursor
+	xorg.libXext
+	xorg.libXi
+	xorg.libXinerama
+	xorg.libXrandr
 	zsh
   	vim
   ];
